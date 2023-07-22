@@ -33,7 +33,7 @@ Team Members:
 
 
 ### About us-
-<img width="960" alt="2023-05-24 (7)" src="https://github.com/20A31A05I3/frt-project/blob/main/assets/images/Screenshot%20(78).png">
+<img width="960" alt="2023-05-24 (7)" src="https://github.com/20a31a05h9/frt-project/blob/main/assets/images/Screenshot%20(78).png">
 
 
 ### Contact us-
